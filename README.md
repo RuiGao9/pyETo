@@ -23,9 +23,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-import py_eto
-from py_eto import helpers
-from py_eto.helpers import calc_es_ea, calc_gamma, calc_pressure, calc_delta, convert_energy
+import pyETo
+# from py_eto import helpers
+# from py_eto.helpers import calc_es_ea, calc_gamma, calc_pressure, calc_delta, convert_energy
 ```
 
 ### Daily PM-ETo
