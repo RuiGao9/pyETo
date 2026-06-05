@@ -73,8 +73,10 @@ df['ETo_Hargreaves'], df['Ra'] = py_eto.hargreaves(
 ```
 
 ## FAO-56 Penman-Monteith Method (Daily)
+
 $$ET_o=\frac{0.408\cdot \Delta (R_n-G)+\gamma \frac{C_n}{T+273} u_2 (e_s-e_a)}
 {\Delta + \gamma (1+ C_d\cdot u_2)}$$
+
 where:<br>
 - $ET_o$: reference ET (mm/day) 
 - ---
